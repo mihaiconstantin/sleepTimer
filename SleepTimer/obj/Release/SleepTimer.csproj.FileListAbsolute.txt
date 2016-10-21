@@ -1,0 +1,14 @@
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\bin\Release\SleepTimer.exe.config
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\bin\Release\SleepTimer.exe
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\bin\Release\SleepTimer.pdb
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.csprojResolveAssemblyReference.cache
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\MainWindow.g.cs
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\App.g.cs
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer_MarkupCompile.cache
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer_MarkupCompile.lref
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\MainWindow.baml
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.g.resources
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.Properties.Resources.resources
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.csproj.GenerateResource.Cache
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.exe
+C:\Users\M\Documents\GitHub\sleepTimer\SleepTimer\obj\Release\SleepTimer.pdb
